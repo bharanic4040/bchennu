@@ -7,8 +7,8 @@ setup(
     entry_points = {
         "console_scripts": ['bchennu = bchennu.bchennu:main']
         },
-    url='',
-    license='',
+    url='https://github.com/bharanic4040/bchennu/',
+    license='Open Source',
     author='bharani chennu',
     author_email='bharanic404@gmail.com',
     description='',
