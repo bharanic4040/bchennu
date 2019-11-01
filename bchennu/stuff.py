@@ -1,0 +1,3 @@
+
+class Stuff(object):
+    pass
